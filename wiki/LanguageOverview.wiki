@@ -1,0 +1,14 @@
+#summary Gives a brief intro to the Hack Programming Language.
+#labels Phase-Requirements
+
+= Introduction =
+
+The Hack Programming Language is a JIT Compiled Programming Language, built on top of C Sharp. It is actually a thin high-level functional paradigm layer on top of the C Sharp syntax. The compiler translates the Hack Source Code to readable C Sharp code, which can then either be directly compiled by a C Sharp compiler or be included in an existing C Sharp Project.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
