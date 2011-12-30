@@ -11,4 +11,4 @@ The compiler outputs _C#_ code. Use the command:
 *pro_compiler mysource.hack*
 
 ==Source File Extension==
-All Hack Programming Language source code should be saved with the _*.hack_ extension. 
+All Hack Programming Language source code should be saved with the _.hack_ extension. 
