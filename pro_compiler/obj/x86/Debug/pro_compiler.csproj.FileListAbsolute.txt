@@ -1,5 +1,0 @@
-D:\Software Development\.NET Framework\v3.5\C#\Windows Forms\pro_compiler\pro_compiler\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Software Development\.NET Framework\v3.5\C#\Windows Forms\pro_compiler\pro_compiler\bin\Debug\pro_compiler.exe
-D:\Software Development\.NET Framework\v3.5\C#\Windows Forms\pro_compiler\pro_compiler\bin\Debug\pro_compiler.pdb
-D:\Software Development\.NET Framework\v3.5\C#\Windows Forms\pro_compiler\pro_compiler\obj\x86\Debug\pro_compiler.exe
-D:\Software Development\.NET Framework\v3.5\C#\Windows Forms\pro_compiler\pro_compiler\obj\x86\Debug\pro_compiler.pdb
